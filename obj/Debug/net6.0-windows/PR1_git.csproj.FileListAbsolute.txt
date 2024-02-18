@@ -1,0 +1,34 @@
+D:\Институт\Семестр 4\Разработка и стандартизация\PR1_git\bin\Debug\net6.0-windows\PR1_git.exe
+D:\Институт\Семестр 4\Разработка и стандартизация\PR1_git\bin\Debug\net6.0-windows\PR1_git.deps.json
+D:\Институт\Семестр 4\Разработка и стандартизация\PR1_git\bin\Debug\net6.0-windows\PR1_git.runtimeconfig.json
+D:\Институт\Семестр 4\Разработка и стандартизация\PR1_git\bin\Debug\net6.0-windows\PR1_git.dll
+D:\Институт\Семестр 4\Разработка и стандартизация\PR1_git\bin\Debug\net6.0-windows\PR1_git.pdb
+D:\Институт\Семестр 4\Разработка и стандартизация\PR1_git\obj\Debug\net6.0-windows\PR1_git.csproj.AssemblyReference.cache
+D:\Институт\Семестр 4\Разработка и стандартизация\PR1_git\obj\Debug\net6.0-windows\PR1_git.Form1.resources
+D:\Институт\Семестр 4\Разработка и стандартизация\PR1_git\obj\Debug\net6.0-windows\PR1_git.csproj.GenerateResource.cache
+D:\Институт\Семестр 4\Разработка и стандартизация\PR1_git\obj\Debug\net6.0-windows\PR1_git.GeneratedMSBuildEditorConfig.editorconfig
+D:\Институт\Семестр 4\Разработка и стандартизация\PR1_git\obj\Debug\net6.0-windows\PR1_git.AssemblyInfoInputs.cache
+D:\Институт\Семестр 4\Разработка и стандартизация\PR1_git\obj\Debug\net6.0-windows\PR1_git.AssemblyInfo.cs
+D:\Институт\Семестр 4\Разработка и стандартизация\PR1_git\obj\Debug\net6.0-windows\PR1_git.csproj.CoreCompileInputs.cache
+D:\Институт\Семестр 4\Разработка и стандартизация\PR1_git\obj\Debug\net6.0-windows\PR1_git.dll
+D:\Институт\Семестр 4\Разработка и стандартизация\PR1_git\obj\Debug\net6.0-windows\refint\PR1_git.dll
+D:\Институт\Семестр 4\Разработка и стандартизация\PR1_git\obj\Debug\net6.0-windows\PR1_git.pdb
+D:\Институт\Семестр 4\Разработка и стандартизация\PR1_git\obj\Debug\net6.0-windows\PR1_git.genruntimeconfig.cache
+D:\Институт\Семестр 4\Разработка и стандартизация\PR1_git\obj\Debug\net6.0-windows\ref\PR1_git.dll
+D:\PR1_git\bin\Debug\net6.0-windows\PR1_git.exe
+D:\PR1_git\bin\Debug\net6.0-windows\PR1_git.deps.json
+D:\PR1_git\bin\Debug\net6.0-windows\PR1_git.runtimeconfig.json
+D:\PR1_git\bin\Debug\net6.0-windows\PR1_git.dll
+D:\PR1_git\bin\Debug\net6.0-windows\PR1_git.pdb
+D:\PR1_git\obj\Debug\net6.0-windows\PR1_git.csproj.AssemblyReference.cache
+D:\PR1_git\obj\Debug\net6.0-windows\PR1_git.Form1.resources
+D:\PR1_git\obj\Debug\net6.0-windows\PR1_git.csproj.GenerateResource.cache
+D:\PR1_git\obj\Debug\net6.0-windows\PR1_git.GeneratedMSBuildEditorConfig.editorconfig
+D:\PR1_git\obj\Debug\net6.0-windows\PR1_git.AssemblyInfoInputs.cache
+D:\PR1_git\obj\Debug\net6.0-windows\PR1_git.AssemblyInfo.cs
+D:\PR1_git\obj\Debug\net6.0-windows\PR1_git.csproj.CoreCompileInputs.cache
+D:\PR1_git\obj\Debug\net6.0-windows\PR1_git.dll
+D:\PR1_git\obj\Debug\net6.0-windows\refint\PR1_git.dll
+D:\PR1_git\obj\Debug\net6.0-windows\PR1_git.pdb
+D:\PR1_git\obj\Debug\net6.0-windows\PR1_git.genruntimeconfig.cache
+D:\PR1_git\obj\Debug\net6.0-windows\ref\PR1_git.dll
